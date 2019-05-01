@@ -28,12 +28,7 @@ Once open you should follow instructions
 
 <br><br>
 
-## Github 
-https://github.com/msesno/wamazon
-
-<br><br>
-
-## Screenshot
+## Screenshots
 <img src="ss1.png"><br>
 <img src="ss2.png"><br>
 <img src="ss3.png"><br>
