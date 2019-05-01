@@ -1,0 +1,24 @@
+{
+  "name": "wamazon",
+  "version": "0.0.1",
+  "description": "nodejs and mysql app that mimic an online storefront in command line",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msesno/wamazon.git"
+  },
+  "author": "msesno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msesno/wamazon/issues"
+  },
+  "homepage": "https://github.com/msesno/wamazon#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^4.0.2",
+    "mysql": "^2.17.1"
+  }
+}
